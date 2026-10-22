@@ -20,10 +20,6 @@
 
 </div>
 
-<img src="https://hits.sh/github.com/mokshana4.svg?style=for-the-badge&label=Profile%20views&color=1f6feb" alt="Profile views">
-
-</div>
-
 <br>
 
 <h2><img src="https://api.iconify.design/tabler/user-code.svg?color=%232f81f7" width="26" align="top" alt=""> About</h2>

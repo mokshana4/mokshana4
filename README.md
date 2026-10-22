@@ -8,10 +8,18 @@
 
 <br>
 
-<!-- Uncomment and fill in to show contact links
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
--->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mokshana-manupati-023689364/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mokshanamanupati07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
 <img src="https://hits.sh/github.com/mokshana4.svg?style=for-the-badge&label=Profile%20views&color=1f6feb" alt="Profile views">
 
 </div>
